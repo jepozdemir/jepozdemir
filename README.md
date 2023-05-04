@@ -92,14 +92,14 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="60" />
     </a>
-    <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" height="60" />
-    </a>
     <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="60" />
+        <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" height="60" />
     </a>
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elk" height="60" />
+    </a>
+    <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" height="60" />
     </a>
     <a href="https://prometheus.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" height="60" />
