@@ -1,2 +1,0 @@
-![jepozdemir](./jepozdemir.PNG)
-
