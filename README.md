@@ -3,7 +3,7 @@
 <h3 align="left">Areas Of Expertise : </h3>
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" height="60" />
     </a>
     <a href="https://aws.amazon.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="60" />
@@ -21,7 +21,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60" />
     </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" height="60" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" height="60" />
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="60" />
@@ -48,13 +48,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" height="60" />
     </a>
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" height="60" />
     </a>
     <a href="https://ansible.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" height="60" />
     </a>
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="60" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" height="60" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" height="60" />
@@ -64,9 +64,6 @@
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="60" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60" />
     </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="60" />
