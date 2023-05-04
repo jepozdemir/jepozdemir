@@ -80,12 +80,6 @@
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elk" height="50" />
     </a>
-    <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" height="50" />
-    </a>
-    <a href="https://graphql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" height="50" />
-    </a>
     <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" height="50" />
     </a>
@@ -94,6 +88,12 @@
     </a>
     <a href="https://prometheus.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" height="50" />
+    </a>
+    <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" height="50" />
+    </a>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" height="50" />
     </a>
     <a href="https://www.heroku.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" height="50" />
