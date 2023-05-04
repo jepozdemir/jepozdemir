@@ -104,17 +104,17 @@
     <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" height="60" />
     </a>
-    <a href="https://prometheus.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" height="60" />
-    </a>
-    <a href="https://grafana.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" height="60" />
-    </a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" height="60" />
     </a>
     <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" height="56" />
+    </a>
+    <a href="https://grafana.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" height="60" />
+    </a>
+    <a href="https://prometheus.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" height="60" />
     </a>
 </p>
 
