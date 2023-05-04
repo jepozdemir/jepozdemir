@@ -1,2 +1,2 @@
-![Lenabs](./lenabs.PNG)
+![Lenabs](./jepozdemir.PNG)
 
