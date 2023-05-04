@@ -102,7 +102,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" height="60" />
     </a>
     <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-        <img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt280217a63b82a734/6202d3378b1f312528798412/elastic-logo.svg" alt="elk" height="60" />
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="elk" height="60" />
     </a>
     <a href="https://grafana.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" height="60" />
