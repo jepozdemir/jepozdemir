@@ -38,23 +38,14 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60" />
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" height="50" />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" height="50" />
     </a>
     <a href="https://golang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" height="50" />
-    </a>
-    <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" height="50" />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="50" />
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" height="50" />
     </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50" />
@@ -80,14 +71,20 @@
     <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" height="50" />
     </a>
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" height="50" />
-    </a>
     <a href="https://grafana.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="grafana" height="50" />
     </a>
     <a href="https://prometheus.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="prometheus" height="50" />
+    </a>
+    <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" height="50" />
+    </a>
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" height="50" />
+    </a> 
+    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" height="45" />
     </a>
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" height="50" />
@@ -112,6 +109,9 @@
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" />
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60" />
     </a>
 </p>
 
