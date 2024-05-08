@@ -19,6 +19,16 @@ The fusion of design and function is not just a philosophy or a trend; it's the 
 </p>
 
 <p align="left">
+  <img height="140" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jepozdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true&hide=html,css" alt="jepozdemir" />
+</p>
+<p align="left">
+  <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=jepozdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true" alt="jepozdemir" />
+</p>
+<p align="left">
+  <img height="140" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jepozdemir&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true" alt="jepozdemir" />
+</p>
+
+<p align="left">
   <a href="https://stackoverflow.com/users/12334298/jepozdemir?theme=dark">
     <img src="https://stackoverflow.com/users/flair/12334298.png" height="50" title="profile for Jiyan Epözdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" alt="jepozdemir">
   </a>
