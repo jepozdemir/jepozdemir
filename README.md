@@ -14,6 +14,12 @@ But perhaps what truly sets my work apart is the passion and dedication I bring 
 
 The fusion of design and function is not just a philosophy or a trend; it's the cornerstone of modern software development. And for me, it's a passion-a calling to create digital experiences that inspire, delight, and leave a lasting impression on users.
 
+<p align="left">
+  <a href="https://stackoverflow.com/users/12334298/jepozdemir?theme=dark">
+    <img src="https://stackoverflow.com/users/flair/12334298.png" height="50" title="profile for Jiyan Epözdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" alt="jepozdemir">
+  </a>
+</p>
+
 <h3 align="left">Areas Of Expertise : </h3>
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
