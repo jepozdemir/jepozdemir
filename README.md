@@ -20,11 +20,7 @@ The fusion of design and function is not just a philosophy or a trend; it's the 
 
 <p align="left">
   <img height="140" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jepozdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true&hide=html,css" alt="jepozdemir" />
-</p>
-<p align="left">
   <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=jepozdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true" alt="jepozdemir" />
-</p>
-<p align="left">
   <img height="140" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jepozdemir&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true" alt="jepozdemir" />
 </p>
 
