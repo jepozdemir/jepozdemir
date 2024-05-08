@@ -14,22 +14,6 @@ But perhaps what truly sets my work apart is the passion and dedication I bring 
 
 The fusion of design and function is not just a philosophy or a trend; it's the cornerstone of modern software development. And for me, it's a passion-a calling to create digital experiences that inspire, delight, and leave a lasting impression on users.
 
-<p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=jepozdemir&ryo-ma&row=1&column=5&margin-w=15&no-bg=true&no-frame=true" alt="jepozdemir" />
-</p>
-
-<p align="left">
-  <img height="140" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jepozdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true&hide=html,css" alt="jepozdemir" />
-  <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=jepozdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true" alt="jepozdemir" />
-  <img height="140" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jepozdemir&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true" alt="jepozdemir" />
-</p>
-
-<p align="left">
-  <a href="https://stackoverflow.com/users/12334298/jepozdemir?theme=dark">
-    <img src="https://stackoverflow.com/users/flair/12334298.png" height="50" title="profile for Jiyan Epözdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" alt="jepozdemir">
-  </a>
-</p>
-
 <h3 align="left">Areas Of Expertise : </h3>
 <p align="left">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -143,5 +127,21 @@ The fusion of design and function is not just a philosophy or a trend; it's the 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60" />
     </a>
+</p>
+
+<p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=jepozdemir&ryo-ma&row=1&column=5&margin-w=15&no-bg=true&no-frame=true" alt="jepozdemir" />
+</p>
+
+<p align="left">
+  <img height="140" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jepozdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true&hide=html,css" alt="jepozdemir" />
+  <img height="140" align="left" src="https://github-readme-stats.vercel.app/api?username=jepozdemir&show_icons=true&locale=en&layout=compact&theme=highcontrast&no-bg=true&no-frame=true" alt="jepozdemir" />
+  <img height="140" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jepozdemir&layout=compact&theme=highcontrast&no-bg=true&no-frame=true&include_all_commits=true" alt="jepozdemir" />
+</p>
+
+<p align="left">
+  <a href="https://stackoverflow.com/users/12334298/jepozdemir?theme=dark">
+    <img src="https://stackoverflow.com/users/flair/12334298.png" height="50" title="profile for Jiyan Epözdemir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" alt="jepozdemir">
+  </a>
 </p>
 
